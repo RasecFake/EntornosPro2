@@ -1,6 +1,5 @@
-public class adios {
+public class Adios {
     public static void main(String[] args) {
-        System.out.println("uwu");
-        System.out.println("Rama 2");
+        System.out.println("Uwu");
     }
 }
